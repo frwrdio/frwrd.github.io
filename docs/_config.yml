@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+navigation:
+  - title: Home
+    url: /index
+  - title: Work
+    url: /work
+  - title: Blog
+    url: /blog
+  - title: TechTalk's
+    url: /techtalks
+  - title: Contact
+    url: /contact
